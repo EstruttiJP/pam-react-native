@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "pam-react-native",
-    "slug": "pam-react-native",
+    "name": "Project-Expo",
+    "slug": "Project-Expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "pamreactnative",
+    "scheme": "projectexpo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
